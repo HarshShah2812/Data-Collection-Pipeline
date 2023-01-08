@@ -134,7 +134,7 @@ class Scraper:
         return id, name, price, weight, brand, rating, image, Timestamp
 
     def _update_data_dictionary(self, link) -> dict:
-        
+        '''A method that saves the data for each product in a dictionary'''
         property_list = ['id', 'name', 'price', 'weight', 'brand', 'rating', 'image']
         product_dict = {key: None for key in property_list}
         id, name, price, weight, brand, rating, image, Timestamp = self._retrieve_product_data(link)
@@ -157,7 +157,8 @@ class Scraper:
         return product_dict_copy
 
     def _get_product_properties(self):
-        
+        '''A method that creates a list of dictionaries corresponding to each product, as well as downloading 
+        the images corresponding to each product'''
         list_of_links = []
         item_info = []
     
@@ -180,6 +181,7 @@ class Scraper:
         return item_info
 
     def _get_product_info_from_each_page(self):
+        '''A method that navigates to each product, scraping the properties of each product'''
         self._downward_scroller()
         self._get_products_page()
         self._get_product_properties()
@@ -200,7 +202,7 @@ class Scraper:
             json.dump(data, f, ensure_ascii = False, indent = 4)
     
     def _download_image(self, index, link):
-        
+        '''A method that downloads each image locally'''
         if not os.path.exists('raw_data'):
             os.makedirs('raw_data')
         
