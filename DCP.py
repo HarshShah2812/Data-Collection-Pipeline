@@ -28,18 +28,7 @@ class Scraper:
         self.url = "https://urushop.co.uk/"
         self.get_request = self.driver.get(self.url)
         self._load_and_accept_cookies()
-        #self._downward_scroller()
-        #self._get_products_page()
-        #self.url_list = []
-        #self._get_links()
-        #self.product_list = []
-        
-        
-        #self.links = self.get_links()
-        #self.get_product_data()
-        #self.products_dict_list = self.get_product_data()
-        # self.save_data_to_json()
-        # self.download_images()
+
         
     def _load_and_accept_cookies(self):
         '''A method that loads the cookie statement and accepts it'''
@@ -80,7 +69,7 @@ class Scraper:
                 urls = self.driver.find_elements(By.XPATH, '//*[@class = "woocommerce-LoopProduct-link woocommerce-loop-product__link"]')
                 for url in urls:
                     url_list.append(url.get_attribute('href'))
-                    #time.sleep(5)
+            
             except StaleElementReferenceException:
                 break
 
@@ -95,13 +84,7 @@ class Scraper:
 
     def _retrieve_product_data(self, product_link):
         '''A method that goes onto each product's webpage and retrives the relevant data'''
-        #product_list = []
-        #property_list = ['id', 'name', 'price', 'weight', 'brand', 'rating', 'image']
-        #products = {key: None for key in property_list}
-        # url_list = self._get_links() 
-        # for product_link in url_list:  
-        #     self.driver.get(link)
-        #     time.sleep(5)
+        
         driver = self.driver
         driver.get(product_link)
     
@@ -172,33 +155,18 @@ class Scraper:
         filename = product_dict_copy['id']
         self._create_folder_json(filename)
         self._write_json(product_dict_copy, filename)
-        #self.product_list.append(products_copy)
+    
         return product_dict_copy
-            
-        # print(product_list)
-        # print(len(product_list))
-        return self.product_list
 
     def _get_product_properties(self):
-        # first_product = self.url_list[0]
-        # for link in self.url_list:
-        #     while link == first_product:
-        #         self.driver.get(link)
-        #         time.sleep(5)
-        #         self._update_dictionary_list()
-        #         break
+        
         list_of_links = []
         item_info = []
-        # self._downward_scroller()
-        # self._get_products_page()
-        #while True:
+    
         item_list = self._get_links()
-        # print(item_list)
         list_of_links.extend(item_list)
         print(list_of_links)
         print(len(list_of_links))
-
-        #try:
             
         for item_link in list_of_links:
             item_info.append(self._update_data_dictionary(item_link))
@@ -210,9 +178,6 @@ class Scraper:
             index += 1
             image = dictionary['image']
             self._download_image(index, image)
-                
-        # except NoSuchElementException:
-        #     break
 
         return item_info
 
@@ -221,32 +186,8 @@ class Scraper:
         self._get_products_page()
         self._get_product_properties()
         
-            
-            
-    # def _get_products_from_each_page(self):
-
-    #     self._downward_scroller()
-    #     self._get_products_page()
-    #     page = 0
-    #     for i in range(1,7):
-    #         page += i
-    #         self._get_products()
-            # url = f"https://urushop.co.uk/pc/yerba-mate-from-south-america/page/{i}/"
-            # self.driver.get
-
-        # print(self.product_list)
-        # return self.product_list
-    
-    # def _get_remaining_products(self):
-    #     remaining_products = self.url_list[1:]
-    #     for link in remaining_products:
-    #         self.driver.get(link)
-    #         time.sleep(5)
-    #         self._update_dictionary_list()
-    #     print(self.product_list)
-    #     return self.product_list
     @staticmethod
-    def _create_folder_json(filename): #destination_folder = 'raw_data/data'):
+    def _create_folder_json(filename): 
         '''A method that converts product_list into a .json file and stored it within the designated directory'''
         if not os.path.exists('raw_data'):
             os.makedirs('raw_data')
@@ -260,28 +201,18 @@ class Scraper:
         with open(folder_path, 'w', encoding = 'utf-8') as f:
             json.dump(data, f, ensure_ascii = False, indent = 4)
     
-    # def _create_image_folder():
-    #     if not os.path.exists('images'):
-    #         os.makedirs('images')
-    
     def _download_image(self, index, link):
-        # self._create_image_folder()
+        
         if not os.path.exists('raw_data'):
             os.makedirs('raw_data')
         
         if not os.path.exists('raw_data/images'):
             os.makedirs('raw_data/images')
         
-        # dict_list = self._get_product_properties()
-        # for index, dict in dict_list:
-        # index =+ 1
-        #image_name = f'{str(date.today())}_{str(datetime.now())}_{str(index)}.jpg'
         t = datetime.now()
         scrape_time = t.strftime("%H%M%S")
-        image_path =  f'raw_data/images/{str(date.today())}_{str(scrape_time)}_{str(index)}.jpg' #os.path.join(destination_folder, image_name)
-        # file_name = f'{str(date.today())}_{str(scrape_time)}_{str(index)}.jpg'
-        # image_path = os.path.join('raw_data/images', file_name)
-        #image_url = dict['image']
+        image_path =  f'raw_data/images/{str(date.today())}_{str(scrape_time)}_{str(index)}.jpg' 
+        
         headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0',
         'Accept-Language': 'en-GB,en;q=0.5',
@@ -299,32 +230,6 @@ class Scraper:
         
     def quit(self):
         self.driver.quit()
-
-
-
-        # file_name = 'data.json'
-        # folder_path = os.path.join(destination_folder, file_name)
-    
-        # with open(folder_path, 'w', encoding = 'utf-8') as f:
-        #     json.dump(self.product_list, f, ensure_ascii= False, indent = 4)
-    
-    # def _download_images(self, destination_folder = 'raw_data/scraped_images'):
-    #     '''A method that downloads the images corresponding to each product under the 'image' key of product_list'''
-    #     if not os.path.exists(destination_folder):
-    #         os.makedirs(destination_folder)
-        
-    #     dict_list = 
-    #     for index, dict in enumerate(self.product_list):
-    #         index += 1
-    #         image_name = f'{str(date.today())}_{datetime.now()}_{str(index)}.jpg'
-    #         image_path = os.path.join(destination_folder, image_name)
-    #         image_url = dict['image']
-
-    #         image_data = requests.get(image_url)
-    #         with open(image_path, 'wb') as handler:
-    #             handler.write(image_data.content)
-            
-            #requests.get(dict['image']) 
 
 if __name__ == "__main__":
     scraper = Scraper()
