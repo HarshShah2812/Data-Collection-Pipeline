@@ -203,15 +203,13 @@ class Scraper:
     
     def _download_image(self, index, link):
         '''A method that downloads each image locally'''
-        if not os.path.exists('raw_data'):
-            os.makedirs('raw_data')
         
-        if not os.path.exists('raw_data/images'):
-            os.makedirs('raw_data/images')
+        if not os.path.exists('images'):
+            os.makedirs('images')
         
         t = datetime.now()
         scrape_time = t.strftime("%H%M%S")
-        image_path =  f'raw_data/images/{str(date.today())}_{str(scrape_time)}_{str(index)}.jpg' 
+        image_path =  f'images/{str(date.today())}_{str(scrape_time)}_{str(index)}.jpg' 
         
         headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0',
