@@ -20,8 +20,7 @@ class Scraper:
             url: link of the website's homepage
             get_request: opens the website link
             load_and_accept_cookies: loads the webpage and accepts the cookies statement
-            downward_scroller: scrolls to a specific set of coordinates when called
-            get_products_page: finds the page element corresponding to the specific products section and clicks on it to go to the section
+        
         '''
         options = Options()
         options.add_argument('--headless')
