@@ -26,17 +26,17 @@ class Scraper:
         options = Options()
         options.add_argument('--headless')
         options.add_argument("--window-size=1920,1080")
-        options.add_argument('--ignore-certificate-errors')
+        options.add_argument('--ignore-certificate-errors') 
         options.add_argument('--allow-running-insecure-content')
-        options.add_argument("--disable-extensions")
+        options.add_argument("--disable-extensions") # Improves overall functionality of the browser
         options.add_argument("--proxy-server='direct://'")
         options.add_argument("--proxy-bypass-list=*")
-        options.add_argument("--start-maximized")
+        options.add_argument("--start-maximized") # Browser is opened in maximised mode
         options.add_argument('--disable-gpu')
-        options.add_argument('--disable-dev-shm-usage')
-        options.add_argument('--no-sandbox')
-        options.add_argument("--disable-notifications")
-        options.add_argument("--disable-infobars")
+        options.add_argument('--disable-dev-shm-usage') # Overcomes limited resource issues by increasing shared memory size
+        options.add_argument('--no-sandbox') # Bypass OS security
+        options.add_argument("--disable-notifications") # Handles notifications sent by websites
+        options.add_argument("--disable-infobars") # Handles displaying of non-critical information
         
         self.driver = webdriver.Firefox(options = options)
         self.url = "https://urushop.co.uk/"
@@ -46,10 +46,16 @@ class Scraper:
         
     def _load_and_accept_cookies(self):
         '''A method that loads the cookie statement and accepts it'''
-        consent_button = self.driver.find_element(By.XPATH, '//*[@id = "cookie_action_close_header"]')
-        time.sleep(5)
-        accept_cookies = consent_button.click()
-        return accept_cookies
+        try:
+            consent_button = self.driver.find_element(By.XPATH, '//*[@id = "cookie_action_close_header"]')
+            time.sleep(5)
+            accept_cookies = consent_button.click()
+            return accept_cookies
+        
+        except:
+            pass # Passes if a cookies button doesn't appear
+            time.sleep(5)
+            return '---No cookies to accept'
     
     def _downward_scroller(self):
         '''A method that scrolls to a given set of coordinates when called'''
@@ -103,41 +109,41 @@ class Scraper:
         driver.get(product_link)
     
         try:
-            id = self.driver.find_element(By.XPATH, '//*[@class = "yith-wcwl-add-button"]/a')
-            id = id.get_attribute('data-product-id')
+            id = self.driver.find_element(By.XPATH, '//*[@class = "yith-wcwl-add-button"]/a') # finds the product id
+            id = id.get_attribute('data-product-id') # finds the product id
         except NoSuchElementException:
             id = "N/A"
         
         try:
-            name = self.driver.find_element(By.XPATH, '//*[@class = "product-info summary col-fit col entry-summary product-summary text-left"]/h1').text
+            name = self.driver.find_element(By.XPATH, '//*[@class = "product-info summary col-fit col entry-summary product-summary text-left"]/h1').text # finds the product name
         except NoSuchElementException:
             name = "N/A"    
             
         try:
-            price = self.driver.find_element(By.XPATH, '//*[@class = "woocommerce-Price-amount amount"]/bdi').text
+            price = self.driver.find_element(By.XPATH, '//*[@class = "woocommerce-Price-amount amount"]/bdi').text # finds the product price
         except NoSuchElementException:
             price = "N/A"
                 
         try:
-            weight = self.driver.find_element(By.XPATH, '//*[@class = "woocommerce-product-attributes-item__value"]')
-            weight = weight.get_attribute('innerHTML')
+            weight = self.driver.find_element(By.XPATH, '//*[@class = "woocommerce-product-attributes-item__value"]') # finds the product weight
+            weight = weight.get_attribute('innerHTML') # finds the product weight
         except NoSuchElementException:
             weight = "N/A"
             
         try:
-            brand = self.driver.find_element(By.XPATH, '//*[@itemprop = "brand"]/a').text
+            brand = self.driver.find_element(By.XPATH, '//*[@itemprop = "brand"]/a').text # finds the product brand
         except NoSuchElementException:
             brand = "N/A"
             
         try:
-            rating = self.driver.find_element(By.XPATH, '//*[@class = "jdgm-prev-badge__stars"]')
-            rating = rating.get_attribute('data-score')
+            rating = self.driver.find_element(By.XPATH, '//*[@class = "jdgm-prev-badge__stars"]') # finds the product rating 
+            rating = rating.get_attribute('data-score') # finds the product rating
         except NoSuchElementException:
             rating = "N/A"
         
         try:    
-            image = self.driver.find_element(By.XPATH, '//*[@class = "wp-post-image skip-lazy entered pmloaded"]')
-            image = image.get_attribute('src')
+            image = self.driver.find_element(By.XPATH, '//*[@class = "wp-post-image skip-lazy entered pmloaded"]') # finds the image link
+            image = image.get_attribute('src') # finds the image link
         except NoSuchElementException:
             image = "N/A"
             
