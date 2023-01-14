@@ -1,7 +1,6 @@
 from DCP import Scraper
 import unittest
 import time
-from datetime import datetime
 import os
 
 
@@ -38,7 +37,8 @@ class ScraperTestCase(unittest.TestCase):
         self.scraper._get_products_page()
         time.sleep(2)
         self.item_list = self.scraper._get_links()
-        self.assertAlmostEqual(len(self.item_list), 130)
+        message = "first and second are not almost equal."
+        self.assertAlmostEqual(len(self.item_list), 130, None, message, 1)
     
     def test_retrieve_product_data(self):
         self.setUp()
