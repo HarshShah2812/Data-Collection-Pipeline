@@ -8,6 +8,7 @@ from datetime import date, datetime
 import os
 import json
 import requests
+import uuid
 
 class Scraper:
     def __init__(self):
@@ -107,11 +108,13 @@ class Scraper:
         driver = self.driver
         driver.get(product_link)
     
-        try:
-            id = self.driver.find_element(By.XPATH, '//*[@class = "yith-wcwl-add-button"]/a') # finds the product id
-            id = id.get_attribute('data-product-id') # finds the product id
-        except NoSuchElementException:
-            id = "N/A"
+        # try:
+        #     id = self.driver.find_element(By.XPATH, '//*[@class = "yith-wcwl-add-button"]/a') # finds the product id
+        #     id = id.get_attribute('data-product-id') # finds the product id
+        # except NoSuchElementException:
+        #     id = "N/A"
+
+        id = str(uuid.uuid4())
         
         try:
             name = self.driver.find_element(By.XPATH, '//*[@class = "product-info summary col-fit col entry-summary product-summary text-left"]/h1').text # finds the product name

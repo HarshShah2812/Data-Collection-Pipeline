@@ -90,7 +90,7 @@ class ScraperTestCase(unittest.TestCase):
             self.assertFalse(False)
 
     def tearDown(self):
-        self.scraper.driver.close()
+        self.scraper.driver.quit()
         del self.scraper
 
 if __name__ == "__main__":
