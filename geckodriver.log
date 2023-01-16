@@ -1,0 +1,1762 @@
+1673203870514	geckodriver	INFO	Listening on 127.0.0.1:54546
+1673203873563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilea8UkUC"
+1673203874911	Marionette	INFO	Marionette enabled
+1673203874935	Marionette	INFO	Listening on port 54558
+Read port: 54558
+WebDriver BiDi listening on ws://127.0.0.1:54547
+1673203878385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilea8UkUC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54547/devtools/browser/a486bf09-7a9d-4903-848f-9414fda76b23
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673204043351	Marionette	INFO	Stopped listening on port 54558
+1673204052479	geckodriver	INFO	Listening on 127.0.0.1:54681
+1673204055456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile2DgnaX"
+1673204057718	Marionette	INFO	Marionette enabled
+1673204057744	Marionette	INFO	Listening on port 54693
+Read port: 54693
+WebDriver BiDi listening on ws://127.0.0.1:54682
+Read port: 54693
+1673204061204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile2DgnaX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54682/devtools/browser/a2732e5e-049c-4e91-8439-bf4019d9ea44
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673204679271	Marionette	INFO	Stopped listening on port 54693
+1673205107502	geckodriver	INFO	Listening on 127.0.0.1:55091
+1673205110604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55092" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilepSMpyp"
+1673205111989	Marionette	INFO	Marionette enabled
+1673205112012	Marionette	INFO	Listening on port 55103
+Read port: 55103
+WebDriver BiDi listening on ws://127.0.0.1:55092
+1673205112396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilepSMpyp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55092/devtools/browser/7f14eb6e-e4b5-4afe-8662-61168babefdc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673205854700	Marionette	INFO	Stopped listening on port 55103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673205858038	geckodriver	INFO	Listening on 127.0.0.1:55297
+1673205861081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileLpu9mJ"
+1673205863611	Marionette	INFO	Marionette enabled
+1673205863631	Marionette	INFO	Listening on port 55317
+Read port: 55317
+WebDriver BiDi listening on ws://127.0.0.1:55298
+Read port: 55317
+1673205867870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileLpu9mJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55298/devtools/browser/e2fc7c34-0579-446a-8955-7188b333df0a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673206225057	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673206490796	Marionette	INFO	Stopped listening on port 55317
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1673206566207	geckodriver	INFO	Listening on 127.0.0.1:55498
+1673206569246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileN4MpWy"
+1673206570513	Marionette	INFO	Marionette enabled
+1673206570536	Marionette	INFO	Listening on port 55512
+Read port: 55512
+WebDriver BiDi listening on ws://127.0.0.1:55499
+1673206570940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileN4MpWy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55499/devtools/browser/82453b18-8c69-4c47-bb34-855f243ebec3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673207231774	Marionette	INFO	Stopped listening on port 55512
+1673218312979	geckodriver	INFO	Listening on 127.0.0.1:57079
+1673218315921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "57080" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofiledUgLO5"
+*** You are running in headless mode.
+1673218322526	Marionette	INFO	Marionette enabled
+1673218322650	Marionette	INFO	Listening on port 57091
+Read port: 57091
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+Read port: 57091
+Read port: 57091
+WebDriver BiDi listening on ws://127.0.0.1:57080
+1673218325964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofiledUgLO5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57080/devtools/browser/a1a17e2f-25d0-4fe6-a56d-8f40886c108b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673298397748	geckodriver	INFO	Listening on 127.0.0.1:58903
+1673298400989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "58904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilebjGSlS"
+*** You are running in headless mode.
+1673298403164	Marionette	INFO	Marionette enabled
+1673298403186	Marionette	INFO	Listening on port 58920
+Read port: 58920
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:58904
+1673298403662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilebjGSlS\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:58904/devtools/browser/b0bb8e42-ae9c-422f-96d7-c571f77b88a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673299122338	Marionette	INFO	Stopped listening on port 58920
+1673620278280	geckodriver	INFO	Listening on 127.0.0.1:56889
+1673620281469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "56890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileHcCE17"
+*** You are running in headless mode.
+1673620287258	Marionette	INFO	Marionette enabled
+1673620287292	Marionette	INFO	Listening on port 56900
+Read port: 56900
+WebDriver BiDi listening on ws://127.0.0.1:56890
+1673620288455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileHcCE17\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56890/devtools/browser/d1559c09-d326-4717-88e3-5fe755ba8d94
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673621628525	geckodriver	INFO	Listening on 127.0.0.1:57340
+1673621631471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "57341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileI0p7PF"
+*** You are running in headless mode.
+1673621634668	Marionette	INFO	Marionette enabled
+1673621634695	Marionette	INFO	Listening on port 57348
+Read port: 57348
+WebDriver BiDi listening on ws://127.0.0.1:57341
+Read port: 57348
+Read port: 57348
+1673621638383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileI0p7PF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57341/devtools/browser/99a784df-cc96-4691-8a84-c113174b401f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673621905372	geckodriver	INFO	Listening on 127.0.0.1:57463
+1673621908319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "57464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilelMGH1Q"
+*** You are running in headless mode.
+1673621910111	Marionette	INFO	Marionette enabled
+1673621910139	Marionette	INFO	Listening on port 57473
+Read port: 57473
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:57464
+1673621910655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilelMGH1Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57464/devtools/browser/ff20449a-71fa-4ad7-9ac7-09c77a342bd2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673622714837	Marionette	INFO	Stopped listening on port 57473
+1673631738314	geckodriver	INFO	Listening on 127.0.0.1:58187
+1673631741245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "58188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileDbNpVi"
+*** You are running in headless mode.
+1673631745811	Marionette	INFO	Marionette enabled
+1673631745901	Marionette	INFO	Listening on port 58197
+Read port: 
+1673631745948	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 58197
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:58188
+1673631747080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileDbNpVi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58188/devtools/browser/ea2672b2-a5dd-4779-96aa-6fe4f1c3308e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673632614535	Marionette	INFO	Stopped listening on port 58197
+1673635702753	geckodriver	INFO	Listening on 127.0.0.1:58989
+1673635705362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "58990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileZpBa4C"
+*** You are running in headless mode.
+1673635710054	Marionette	INFO	Marionette enabled
+1673635710078	Marionette	INFO	Listening on port 59000
+Read port: 59000
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:58990
+1673635713362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileZpBa4C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58990/devtools/browser/9376ec12-2fd4-422e-9ea1-4f498a3e9cff
+1673635745271	Marionette	INFO	Stopped listening on port 59000
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "Sqlite.sys.mjs: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1673635748841	geckodriver	INFO	Listening on 127.0.0.1:59055
+1673635753848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileMhYJtC"
+*** You are running in headless mode.
+1673635755191	Marionette	INFO	Marionette enabled
+1673635755212	Marionette	INFO	Listening on port 59069
+Read port: 59069
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:59056
+1673635760351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileMhYJtC\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:59056/devtools/browser/2c075908-85c5-4b6c-a891-265aae41759f
+1673635785931	geckodriver	INFO	Listening on 127.0.0.1:59123
+1673635788932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilenEpQOP"
+*** You are running in headless mode.
+1673635790989	Marionette	INFO	Marionette enabled
+1673635791030	Marionette	INFO	Listening on port 59136
+Read port: 59136
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:59124
+1673635791668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilenEpQOP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59124/devtools/browser/eca57874-b625-4045-9c68-58145af529a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673635880275	Marionette	INFO	Stopped listening on port 59136
+1673635892988	geckodriver	INFO	Listening on 127.0.0.1:59205
+1673635896225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileJXTGUg"
+*** You are running in headless mode.
+1673635899873	Marionette	INFO	Marionette enabled
+1673635899904	Marionette	INFO	Listening on port 59215
+Read port: 59215
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:59206
+1673635900443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileJXTGUg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59206/devtools/browser/93863929-b38e-4232-85c6-5a118f9c467a
+1673635923301	Marionette	INFO	Stopped listening on port 59215
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofileJXTGUg\protections.sqlite
+[Parent 348, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1673635929518	geckodriver	INFO	Listening on 127.0.0.1:59265
+1673635932714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileegZx1G"
+*** You are running in headless mode.
+1673635934509	Marionette	INFO	Marionette enabled
+1673635934540	Marionette	INFO	Listening on port 59277
+Read port: 59277
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:59266
+1673635935093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileegZx1G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59266/devtools/browser/d625c4f0-e4cd-4977-ae0d-526071fdb56b
+1673635957838	Marionette	INFO	Stopped listening on port 59277
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofileegZx1G\protections.sqlite
+1673635962737	geckodriver	INFO	Listening on 127.0.0.1:59327
+1673635984781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileSwVsDY"
+*** You are running in headless mode.
+1673635987137	Marionette	INFO	Marionette enabled
+1673635987168	Marionette	INFO	Listening on port 59345
+Read port: 59345
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:59328
+1673635987705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileSwVsDY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59328/devtools/browser/b6d18831-2c58-40b6-8566-4775a9f73ae1
+1673636010491	geckodriver	INFO	Listening on 127.0.0.1:59394
+1673636013476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilebLAJVU"
+*** You are running in headless mode.
+1673636017717	Marionette	INFO	Marionette enabled
+1673636017754	Marionette	INFO	Listening on port 59407
+Read port: 59407
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:59395
+1673636018542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilebLAJVU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59395/devtools/browser/bf4eb4d8-deec-44ed-be9f-bf9175e99f50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673636128189	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673636136293	Marionette	INFO	Stopped listening on port 59407
+1673636143743	geckodriver	INFO	Listening on 127.0.0.1:59474
+1673636146694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileZFj1CB"
+*** You are running in headless mode.
+1673636151174	Marionette	INFO	Marionette enabled
+1673636151213	Marionette	INFO	Listening on port 59490
+Read port: 59490
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:59475
+1673636151935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileZFj1CB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59475/devtools/browser/5226bf49-5437-482e-9354-b625bd35a4a8
+1673636187215	geckodriver	INFO	Listening on 127.0.0.1:59541
+1673636190280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilerEV1NF"
+*** You are running in headless mode.
+1673636194637	Marionette	INFO	Marionette enabled
+1673636194695	Marionette	INFO	Listening on port 59555
+Read port: 59555
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:59542
+Read port: 59555
+Read port: 59555
+Read port: 59555
+Read port: 59555
+1673636201049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilerEV1NF\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:59542/devtools/browser/caf56291-bbce-48fc-8b4d-e580a0d66a5e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673636358910	Marionette	INFO	Stopped listening on port 59555
+!!! error running onStopped callback: TypeError: callback is not a function
+1673636393212	geckodriver	INFO	Listening on 127.0.0.1:59656
+1673636397569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "59657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileZIWSdI"
+*** You are running in headless mode.
+1673636407243	Marionette	INFO	Marionette enabled
+1673636407361	Marionette	INFO	Listening on port 59678
+Read port: 59678
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:59657
+Read port: 59678
+Read port: 59678
+Read port: 59678
+Read port: 59678
+Read port: 59678
+Read port: 59678
+Read port: 59678
+Read port: 59678
+1673636419971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileZIWSdI\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:59657/devtools/browser/e3cb83a2-bcef-4294-9573-51d9fe8a4449
+1673651343104	geckodriver	INFO	Listening on 127.0.0.1:63423
+1673651345548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "63424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile8sd6c1"
+*** You are running in headless mode.
+1673651359693	Marionette	INFO	Marionette enabled
+1673651359840	Marionette	INFO	Listening on port 63435
+Read port: 63435
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:63424
+Read port: 63435
+Read port: 63435
+Read port: 63435
+Read port: 63435
+Read port: 63435
+Read port: 63435
+Read port: 63435
+Read port: 63435
+Read port: 63435
+1673651373562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile8sd6c1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63424/devtools/browser/fa36b34e-e930-4d5f-a5d5-d597750ced2a
+1673651428792	Marionette	INFO	Stopped listening on port 63435
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "Sqlite.sys.mjs: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1673651440277	geckodriver	INFO	Listening on 127.0.0.1:63495
+1673651446858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "63496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileXclles"
+*** You are running in headless mode.
+1673651448474	Marionette	INFO	Marionette enabled
+1673651448491	Marionette	INFO	Listening on port 63507
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+Read port: 63507
+WebDriver BiDi listening on ws://127.0.0.1:63496
+Read port: 63507
+1673651457112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileXclles\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:63496/devtools/browser/096c662d-53c9-4049-af34-60d3b42c51cf
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63559
+1673651494769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "63560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileAy5Ilr"
+*** You are running in headless mode.
+1673651496435	Marionette	INFO	Marionette enabled
+1673651496459	Marionette	INFO	Listening on port 63572
+Read port: 63572
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:63560
+1673651505512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileAy5Ilr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63560/devtools/browser/9357476f-9c9f-40ac-8c8f-6fe9fd4e7403
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673651599476	Marionette	INFO	Stopped listening on port 63572
+1673651619432	geckodriver	INFO	Listening on 127.0.0.1:63640
+1673651622210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "63641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileUSHEqq"
+*** You are running in headless mode.
+1673651623676	Marionette	INFO	Marionette enabled
+1673651623703	Marionette	INFO	Listening on port 63652
+Read port: 63652
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:63641
+Read port: 63652
+Read port: 63652
+Read port: 63652
+1673651631118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileUSHEqq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63641/devtools/browser/508598ab-5701-4b3e-9922-60c9accc5259
+1673651654532	Marionette	INFO	Stopped listening on port 63652
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "Sqlite.sys.mjs: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1673651658655	geckodriver	INFO	Listening on 127.0.0.1:63708
+1673651661678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "63709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileud6Lpq"
+*** You are running in headless mode.
+1673651662972	Marionette	INFO	Marionette enabled
+1673651662995	Marionette	INFO	Listening on port 63720
+Read port: 63720
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:63709
+Read port: 63720
+Read port: 63720
+1673651666452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileud6Lpq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63709/devtools/browser/7f833eb3-875f-4eb5-9255-5c571c8ade4d
+1673651686263	Marionette	INFO	Stopped listening on port 63720
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "Sqlite.sys.mjs: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1673651718350	geckodriver	INFO	Listening on 127.0.0.1:63775
+1673651721079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "63776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile7QhB1Q"
+*** You are running in headless mode.
+1673651722427	Marionette	INFO	Marionette enabled
+1673651722452	Marionette	INFO	Listening on port 63795
+Read port: 63795
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:63776
+1673651722982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile7QhB1Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63776/devtools/browser/7d86eef2-da27-4021-9296-923f1d3866f9
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63846
+1673651753342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "63847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileGtMwsO"
+*** You are running in headless mode.
+1673651755551	Marionette	INFO	Marionette enabled
+1673651755618	Marionette	INFO	Listening on port 63859
+Read port: 63859
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:63847
+1673651756404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileGtMwsO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63847/devtools/browser/aa3d20b1-bd03-4459-af15-39d782de931d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673651877496	Marionette	INFO	Stopped listening on port 63859
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 6856, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1673651894740	geckodriver	INFO	Listening on 127.0.0.1:63935
+1673651897296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "63936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileuuMHsy"
+*** You are running in headless mode.
+1673651901319	Marionette	INFO	Marionette enabled
+1673651901348	Marionette	INFO	Listening on port 63949
+Read port: 63949
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:63936
+1673651903101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileuuMHsy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63936/devtools/browser/2ae4995b-490e-478f-a1ae-0af78c8bb656
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63999
+1673651935147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "64000" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileiQI1qR"
+*** You are running in headless mode.
+1673651939238	Marionette	INFO	Marionette enabled
+1673651939318	Marionette	INFO	Listening on port 64016
+Read port: 64016
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:64000
+Read port: 64016
+Read port: 64016
+Read port: 64016
+Read port: 64016
+Read port: 64016
+1673651949651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileiQI1qR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64000/devtools/browser/e870efcb-963c-4c6e-9b78-9d9f66814e49
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+[Parent 2236, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1673652013132	Marionette	INFO	Stopped listening on port 64016
+1673652099289	geckodriver	INFO	Listening on 127.0.0.1:64083
+1673652102209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "64084" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileq5JnMq"
+*** You are running in headless mode.
+1673652107509	Marionette	INFO	Marionette enabled
+1673652107565	Marionette	INFO	Listening on port 64094
+Read port: 64094
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:64084
+Read port: 64094
+Read port: 64094
+Read port: 64094
+Read port: 64094
+1673652126918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileq5JnMq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64084/devtools/browser/6dcd1d3f-6c0d-4ce8-ada6-c7b7fe2e11a2
+1673652171877	Marionette	INFO	Stopped listening on port 64094
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1b47d0a0100","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofileq5JnMq\protections.sqlite
+1673653686288	geckodriver	INFO	Listening on 127.0.0.1:64794
+1673653689473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "64795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileFEYy6G"
+*** You are running in headless mode.
+1673653694899	Marionette	INFO	Marionette enabled
+1673653694956	Marionette	INFO	Listening on port 64805
+Read port: 64805
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:64795
+1673653695976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1673653769617	geckodriver	INFO	Listening on 127.0.0.1:64851
+1673653772545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "64852" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile542XRl"
+*** You are running in headless mode.
+1673653774697	Marionette	INFO	Marionette enabled
+1673653774717	Marionette	INFO	Listening on port 64861
+Read port: 64861
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:64852
+1673653775146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1673653828883	geckodriver	INFO	Listening on 127.0.0.1:64908
+1673653831926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "64909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileYaMLQV"
+*** You are running in headless mode.
+1673653833873	Marionette	INFO	Marionette enabled
+1673653833895	Marionette	INFO	Listening on port 64924
+Read port: 64924
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:64909
+1673653837964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileYaMLQV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64909/devtools/browser/2abe13b8-bc65-4eff-97c4-864521973fbd
+1673653861303	Marionette	INFO	Stopped listening on port 64924
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofileYaMLQV\protections.sqlite
+1673653864836	geckodriver	INFO	Listening on 127.0.0.1:64998
+1673653870626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "64999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilesN5w0E"
+*** You are running in headless mode.
+1673653871977	Marionette	INFO	Marionette enabled
+1673653871999	Marionette	INFO	Listening on port 65017
+Read port: 65017
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:64999
+1673653872405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilesN5w0E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64999/devtools/browser/b3229d02-b715-4f24-87ab-ef5c52c09e88
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:65076
+1673653900599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "65077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile9NLv6t"
+*** You are running in headless mode.
+1673653902301	Marionette	INFO	Marionette enabled
+1673653902334	Marionette	INFO	Listening on port 65091
+Read port: 65091
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:65077
+1673653902887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile9NLv6t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65077/devtools/browser/14800b78-8d79-48b3-88e5-2995a635199b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673653984384	Marionette	INFO	Stopped listening on port 65091
+1673653989374	geckodriver	INFO	Listening on 127.0.0.1:65164
+1673653992218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "65165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofiles0LtSg"
+*** You are running in headless mode.
+1673653993923	Marionette	INFO	Marionette enabled
+1673653993955	Marionette	INFO	Listening on port 65178
+Read port: 65178
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:65165
+1673653994463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofiles0LtSg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65165/devtools/browser/ac678bc1-498a-4408-8d50-0eeb9fd6cfda
+1673654015206	Marionette	INFO	Stopped listening on port 65178
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofiles0LtSg\protections.sqlite
+1673654019050	geckodriver	INFO	Listening on 127.0.0.1:65232
+1673654022274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "65233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofiletY7jzR"
+*** You are running in headless mode.
+1673654023894	Marionette	INFO	Marionette enabled
+1673654023921	Marionette	INFO	Listening on port 65248
+Read port: 65248
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:65233
+1673654024528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofiletY7jzR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65233/devtools/browser/63f0b661-6359-422e-817c-ad6a2c1759ee
+1673654044608	Marionette	INFO	Stopped listening on port 65248
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofiletY7jzR\protections.sqlite
+1673654057389	geckodriver	INFO	Listening on 127.0.0.1:65298
+1673654060245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "65299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofiletVVPBq"
+*** You are running in headless mode.
+1673654062081	Marionette	INFO	Marionette enabled
+1673654062111	Marionette	INFO	Listening on port 65321
+Read port: 65321
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:65299
+1673654062606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofiletVVPBq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65299/devtools/browser/543be8bc-d7cd-44aa-ba8d-a6c42f1dcc59
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:65370
+1673654086589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "65371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile5ucWd4"
+*** You are running in headless mode.
+1673654089089	Marionette	INFO	Marionette enabled
+1673654089148	Marionette	INFO	Listening on port 65387
+Read port: 65387
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:65371
+1673654089932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile5ucWd4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65371/devtools/browser/9e6c996c-0fed-4bf4-a4ea-dc1046270c6a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673654189342	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673654196938	Marionette	INFO	Stopped listening on port 65387
+1673654203110	geckodriver	INFO	Listening on 127.0.0.1:65469
+1673654206175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "65470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilevvwvjH"
+*** You are running in headless mode.
+1673654208199	Marionette	INFO	Marionette enabled
+1673654208256	Marionette	INFO	Listening on port 65480
+Read port: 65480
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:65470
+1673654208933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilevvwvjH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65470/devtools/browser/31047d02-953a-40ff-bcbf-4aa116935802
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49154
+1673654235343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "49155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile5SdiKs"
+*** You are running in headless mode.
+1673654238571	Marionette	INFO	Marionette enabled
+1673654238636	Marionette	INFO	Listening on port 49167
+Read port: 49167
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:49155
+1673654239363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile5SdiKs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49155/devtools/browser/9ef7c9df-c4ff-4247-aaeb-5d89d5c66762
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673654282875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673654316814	Marionette	INFO	Stopped listening on port 49167
+1673654340279	geckodriver	INFO	Listening on 127.0.0.1:49239
+1673654375774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "49240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilejViUbE"
+*** You are running in headless mode.
+1673654380144	Marionette	INFO	Marionette enabled
+1673654380202	Marionette	INFO	Listening on port 49266
+Read port: 49266
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:49240
+1673654380983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilejViUbE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49240/devtools/browser/914ed67a-6d28-42bb-a8d1-bde9cf0e4159
+1673654405479	Marionette	INFO	Stopped listening on port 49266
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofilejViUbE\protections.sqlite
+1673654886211	geckodriver	INFO	Listening on 127.0.0.1:49634
+1673654897465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "49635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileskK4Ij"
+*** You are running in headless mode.
+1673654904481	Marionette	INFO	Marionette enabled
+1673654904534	Marionette	INFO	Listening on port 49657
+Read port: 49657
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:49635
+Read port: 49657
+Read port: 49657
+Read port: 49657
+Read port: 49657
+Read port: 49657
+Read port: 49657
+1673654914134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileskK4Ij\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49635/devtools/browser/d251815c-1ef0-4fc5-8396-08ed11588a63
+1673654951239	Marionette	INFO	Stopped listening on port 49657
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofileskK4Ij\protections.sqlite
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 907: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1673654966066	geckodriver	INFO	Listening on 127.0.0.1:49723
+1673654971660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "49724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilefWxTTV"
+*** You are running in headless mode.
+1673654978005	Marionette	INFO	Marionette enabled
+1673654978066	Marionette	INFO	Listening on port 49737
+Read port: 49737
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:49724
+1673654978899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilefWxTTV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49724/devtools/browser/b8a16b3b-a779-4a3e-a403-d5ac319db669
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49788
+1673655009359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "49789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileUuksh5"
+*** You are running in headless mode.
+1673655013408	Marionette	INFO	Marionette enabled
+1673655013467	Marionette	INFO	Listening on port 49802
+Read port: 49802
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:49789
+1673655014399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileUuksh5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49789/devtools/browser/788cbc50-f016-48a3-b40b-ff6ed25d8d69
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673655146887	Marionette	INFO	Stopped listening on port 49802
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1c39f0f4700","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+[GFX1]: Attempting to post to an invalid Compositor Thread
+1673655189944	geckodriver	INFO	Listening on 127.0.0.1:49888
+1673655192916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "49889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilehiHyRt"
+*** You are running in headless mode.
+1673655197732	Marionette	INFO	Marionette enabled
+1673655197812	Marionette	INFO	Listening on port 49898
+Read port: 49898
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:49889
+1673655198954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilehiHyRt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49889/devtools/browser/cbf269f1-0516-4489-8338-4145a2496109
+1673655227279	Marionette	INFO	Stopped listening on port 49898
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1f4a2c65a00","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofilehiHyRt\protections.sqlite
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 907: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1673655269933	geckodriver	INFO	Listening on 127.0.0.1:49951
+1673655273153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "49952" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilenYWCLi"
+*** You are running in headless mode.
+1673655277017	Marionette	INFO	Marionette enabled
+1673655277054	Marionette	INFO	Listening on port 49962
+Read port: 49962
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:49952
+1673655278025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilenYWCLi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49952/devtools/browser/3691a72b-df02-4e4b-b911-3dc4fbe1fff0
+1673655307169	Marionette	INFO	Stopped listening on port 49962
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=29ec9677900","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofilenYWCLi\protections.sqlite
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1673655347248	geckodriver	INFO	Listening on 127.0.0.1:50087
+1673655360223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileS1svKE"
+*** You are running in headless mode.
+1673655364135	Marionette	INFO	Marionette enabled
+1673655364179	Marionette	INFO	Listening on port 50106
+Read port: 50106
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50088
+1673655365172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileS1svKE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50088/devtools/browser/24df38a8-0af2-4317-8f0e-bcc8f7b1fe1c
+1673655398633	geckodriver	INFO	Listening on 127.0.0.1:50161
+1673655401838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileq2Rhuq"
+*** You are running in headless mode.
+1673655407509	Marionette	INFO	Marionette enabled
+1673655407568	Marionette	INFO	Listening on port 50175
+Read port: 50175
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50162
+1673655408878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileq2Rhuq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50162/devtools/browser/c74b2c92-edb0-434d-9c7e-ed1fc0d73cb7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673655566544	Marionette	INFO	Stopped listening on port 50175
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=266539dc100","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1673655610937	geckodriver	INFO	Listening on 127.0.0.1:50259
+1673655613930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile9tzpAM"
+*** You are running in headless mode.
+1673655619696	Marionette	INFO	Marionette enabled
+1673655619750	Marionette	INFO	Listening on port 50269
+Read port: 50269
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50260
+1673655620810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile9tzpAM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50260/devtools/browser/b2ff74cb-c21a-4f56-b467-7612132d55ca
+1673655655260	geckodriver	INFO	Listening on 127.0.0.1:50319
+1673655658034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50320" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileRs1NpL"
+*** You are running in headless mode.
+1673655663354	Marionette	INFO	Marionette enabled
+1673655663431	Marionette	INFO	Listening on port 50339
+Read port: 50339
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50320
+Read port: 50339
+1673655666906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileRs1NpL\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:50320/devtools/browser/ee10fef0-a4b5-4098-9d08-58d03da1e3b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673655844056	Marionette	INFO	Stopped listening on port 50339
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1673655877681	geckodriver	INFO	Listening on 127.0.0.1:50424
+1673655880741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileGJQ2z8"
+*** You are running in headless mode.
+1673655887807	Marionette	INFO	Marionette enabled
+1673655887876	Marionette	INFO	Listening on port 50440
+Read port: 50440
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50425
+1673655888939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileGJQ2z8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50425/devtools/browser/27cbebff-4c0f-43c3-8f3a-ee8ca606e756
+1673655956760	Marionette	INFO	Stopped listening on port 50440
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofileGJQ2z8\protections.sqlite
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1c7259ac600","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1673718774886	geckodriver	INFO	Listening on 127.0.0.1:53804
+1673718777767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "53805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile5umZnf"
+*** You are running in headless mode.
+1673718784974	Marionette	INFO	Marionette enabled
+1673718785019	Marionette	INFO	Listening on port 53818
+Read port: 53818
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:53805
+1673718786153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile5umZnf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53805/devtools/browser/38906036-69e3-42bc-995b-6431625569a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1673719856902	Marionette	INFO	Stopped listening on port 53818
+1673720394523	geckodriver	INFO	Listening on 127.0.0.1:54971
+1673720397536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "54972" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileW0zqvh"
+*** You are running in headless mode.
+1673720400692	Marionette	INFO	Marionette enabled
+1673720400716	Marionette	INFO	Listening on port 54986
+Read port: 54986
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:54972
+1673720401110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileW0zqvh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54972/devtools/browser/37dede4d-4e98-4eca-bbbf-fc155f9737af
+1673720427198	Marionette	INFO	Stopped listening on port 54986
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "Sqlite.sys.mjs: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1673720434738	geckodriver	INFO	Listening on 127.0.0.1:55044
+1673720437710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "55045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile1jCoVw"
+*** You are running in headless mode.
+1673720439431	Marionette	INFO	Marionette enabled
+1673720439457	Marionette	INFO	Listening on port 55055
+Read port: 55055
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:55045
+1673720439865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile1jCoVw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55045/devtools/browser/b9f9a3d1-34a5-49aa-a853-6c3f3c98abc6
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55106
+1673720463000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "55107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile5nFdW1"
+*** You are running in headless mode.
+1673720464857	Marionette	INFO	Marionette enabled
+1673720464885	Marionette	INFO	Listening on port 55119
+Read port: 55119
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:55107
+1673720465466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile5nFdW1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55107/devtools/browser/9a337253-b0bc-4ca5-8938-3ca5ce862ef3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673720556915	Marionette	INFO	Stopped listening on port 55119
+1673720566414	geckodriver	INFO	Listening on 127.0.0.1:55205
+1673720569442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "55206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile2Mt2rL"
+*** You are running in headless mode.
+1673720571759	Marionette	INFO	Marionette enabled
+1673720571789	Marionette	INFO	Listening on port 55215
+Read port: 55215
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:55206
+1673720572236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile2Mt2rL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55206/devtools/browser/e764d39e-1b41-4d5d-92e7-5746647084a4
+1673720594741	Marionette	INFO	Stopped listening on port 55215
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofile2Mt2rL\protections.sqlite
+1673720599650	geckodriver	INFO	Listening on 127.0.0.1:55266
+1673720602824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "55267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilerJB3SI"
+*** You are running in headless mode.
+1673720604279	Marionette	INFO	Marionette enabled
+1673720604325	Marionette	INFO	Listening on port 55276
+Read port: 55276
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:55267
+1673720604956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilerJB3SI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55267/devtools/browser/462092bd-3c18-4525-8c03-1e03fcad60b6
+1673720628021	Marionette	INFO	Stopped listening on port 55276
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofilerJB3SI\protections.sqlite
+1673720632792	geckodriver	INFO	Listening on 127.0.0.1:55327
+1673720635901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "55328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile61nIlA"
+*** You are running in headless mode.
+1673720637691	Marionette	INFO	Marionette enabled
+1673720637743	Marionette	INFO	Listening on port 55337
+Read port: 55337
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:55328
+1673720638243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile61nIlA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55328/devtools/browser/f4fbbfed-d510-4e8f-b65c-97525f61cf5a
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55389
+1673720666242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "55390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileZ5GTFa"
+*** You are running in headless mode.
+1673720668787	Marionette	INFO	Marionette enabled
+1673720668843	Marionette	INFO	Listening on port 55403
+Read port: 55403
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:55390
+1673720669572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileZ5GTFa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55390/devtools/browser/17b22236-ec79-4250-b840-17cfcad69ced
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1673720717139	Marionette	INFO	Stopped listening on port 55403
+1673720749373	geckodriver	INFO	Listening on 127.0.0.1:55505
+1673720752626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "55506" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofiley1M7lE"
+*** You are running in headless mode.
+1673720757615	Marionette	INFO	Marionette enabled
+1673720757645	Marionette	INFO	Listening on port 55524
+Read port: 55524
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:55506
+1673720759758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofiley1M7lE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55506/devtools/browser/e7f5bb03-36a4-431f-82ba-d89b1ad4dc2e
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55576
+1673720796758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "55577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileKkvTrP"
+*** You are running in headless mode.
+1673720801390	Marionette	INFO	Marionette enabled
+1673720801433	Marionette	INFO	Listening on port 55589
+Read port: 55589
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:55577
+1673720802302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileKkvTrP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55577/devtools/browser/52eb3a98-8611-4010-8c08-53af0412f3f3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673720960305	Marionette	INFO	Stopped listening on port 55589
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1224c759600","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1673720990683	geckodriver	INFO	Listening on 127.0.0.1:55685
+1673720993569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "55686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileyVP8Fo"
+*** You are running in headless mode.
+1673720998345	Marionette	INFO	Marionette enabled
+1673720998397	Marionette	INFO	Listening on port 55696
+Read port: 55696
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:55686
+1673720999141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileyVP8Fo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55686/devtools/browser/3ba09419-ccc9-457e-9e43-d52fe3201ee0
+1673721042863	Marionette	INFO	Stopped listening on port 55696
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=27806d42200","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofileyVP8Fo\protections.sqlite
+1673721878882	geckodriver	INFO	Listening on 127.0.0.1:56057
+1673721882285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "56058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileWyu3Tp"
+*** You are running in headless mode.
+1673721894045	Marionette	INFO	Marionette enabled
+1673721894210	Marionette	INFO	Listening on port 56098
+Read port: 56098
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:56058
+1673721899965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileWyu3Tp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56058/devtools/browser/a5e70504-186e-43a6-8d8e-5e57184e5105
+1673721985184	Marionette	INFO	Stopped listening on port 56098
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofileWyu3Tp\protections.sqlite
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1fb4f212600","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1673722030473	geckodriver	INFO	Listening on 127.0.0.1:56285
+1673722033583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "56286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileSJ71ZG"
+*** You are running in headless mode.
+1673722038519	Marionette	INFO	Marionette enabled
+1673722038569	Marionette	INFO	Listening on port 56301
+Read port: 56301
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:56286
+1673722039621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileSJ71ZG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56286/devtools/browser/3e47c99c-efe3-415e-9f7b-f1ab5448da25
+1673722082522	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56362
+1673722093060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "56363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilevCaX95"
+*** You are running in headless mode.
+1673722100260	Marionette	INFO	Marionette enabled
+1673722100320	Marionette	INFO	Listening on port 56376
+Read port: 56376
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:56363
+Read port: 56376
+1673722103252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilevCaX95\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:56363/devtools/browser/19125882-0f3f-4804-baa3-fdd0c5ca4c29
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+[Parent 21312, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1673722165640	Marionette	INFO	Stopped listening on port 56376
+console.error: (new Error("SessionFile is closed", "resource1673722181528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "56446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile74Zkta"
+*** You are running in headless mode.
+1673722190788	Marionette	INFO	Marionette enabled
+1673722190875	Marionette	INFO	Listening on port 56457
+Read port: 56457
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:56446
+1673722194617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile74Zkta\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:56446/devtools/browser/28db9e14-4532-4ff4-a508-7d6087f50602
+1673722262764	Marionette	INFO	Stopped listening on port 56457
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofile74Zkta\protections.sqlite
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=279dd8f0f00","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1673722310665	geckodriver	INFO	Listening on 127.0.0.1:56532
+1673722313676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "56533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilesdNkdx"
+*** You are running in headless mode.
+1673722320735	Marionette	INFO	Marionette enabled
+1673722320816	Marionette	INFO	Listening on port 56545
+Read port: 56545
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:56533
+Read port: 56545
+1673722323780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilesdNkdx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56533/devtools/browser/0304fdc8-90fb-42b4-81e0-759049097332
+1673722403159	Marionette	INFO	Stopped listening on port 56545
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=293eae13800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofilesdNkdx\protections.sqlite
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+[Parent 14592, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1673722463887	geckodriver	INFO	Listening on 127.0.0.1:56621
+1673722466831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "56622" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilemOu7Kh"
+*** You are running in headless mode.
+1673722479106	Marionette	INFO	Marionette enabled
+1673722479181	Marionette	INFO	Listening on port 56647
+Read port: 
+1673722479282	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 56647
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:56622
+1673722483079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilemOu7Kh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56622/devtools/browser/7513cf9c-cdeb-4bc0-9c01-47055831d03b
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56699
+1673722628920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "56700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile2YsWdL"
+*** You are running in headless mode.
+1673722643454	Marionette	INFO	Marionette enabled
+1673722643568	Marionette	INFO	Listening on port 56726
+Read port: 56726
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:56700
+Read port: 56726
+Read port: 56726
+Read port: 56726
+Read port: 56726
+Read port: 56726
+Read port: 56726
+Read port: 56726
+Read port: 56726
+1673722657369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile2YsWdL\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:56700/devtools/browser/078c0741-e518-4ecc-b621-9816b31df278
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1673722718904	Marionette	INFO	Stopped listening on port 56726
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofile2YsWdL\protections.sqlite
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=2c885f89700","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+1673722756443	geckodriver	INFO	Listening on 127.0.0.1:56791
+1673722759456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "56792" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileuIa74j"
+*** You are running in headless mode.
+1673722768449	Marionette	INFO	Marionette enabled
+1673722768500	Marionette	INFO	Listening on port 56805
+Read port: 56805
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:56792
+Read port: 56805
+Read port: 56805
+Read port: 56805
+Read port: 56805
+Read port: 56805
+Read port: 56805
+Read port: 56805
+1673722779723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileuIa74j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56792/devtools/browser/e3768d59-44f1-45ce-ac33-946c87a77489
+1673722884216	geckodriver	INFO	Listening on 127.0.0.1:56884
+1673722887750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "56885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile2tZGfO"
+*** You are running in headless mode.
+1673722909320	Marionette	INFO	Marionette enabled
+1673722909395	Marionette	INFO	Listening on port 56917
+Read port: 56917
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:56885
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+Read port: 56917
+1673722934294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile2tZGfO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56885/devtools/browser/52511e43-0a58-4a75-aa8a-bd66dc6e8b24
+1673723025075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673723185544	Marionette	INFO	Stopped listening on port 56917
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.sys.mjs:defineLazyServiceGetter/<:150","resource://gre/modules/XPCOMUtils.sys.mjs:get:54","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1697","resource:///modules/BrowserGlue.jsm:BG_observe:934","chrome://browser/content/browser.js:_delayedStartup:2180"]},{"name":"ContentParent: id=26a629e2200","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3808,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164"]}] Barrier: profile-before-change
+1673723298008	geckodriver	INFO	Listening on 127.0.0.1:57093
+1673723300514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "57094" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile5rqJ4g"
+*** You are running in headless mode.
+1673723322080	Marionette	INFO	Marionette enabled
+1673723322151	Marionette	INFO	Listening on port 57131
+Read port: 57131
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+Read port: 57131
+WebDriver BiDi listening on ws://127.0.0.1:57094
+1673723326371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile5rqJ4g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57094/devtools/browser/43ec3dfb-0b7b-4491-b48e-166664b4ca9e
+1673726384573	geckodriver	INFO	Listening on 127.0.0.1:50138
+1673726387720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileeURCeo"
+*** You are running in headless mode.
+1673726392602	Marionette	INFO	Marionette enabled
+1673726392653	Marionette	INFO	Listening on port 50148
+Read port: 50148
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+Read port: 50148
+WebDriver BiDi listening on ws://127.0.0.1:50139
+1673726394989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileeURCeo\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:50139/devtools/browser/c72d6a3a-cfcd-454f-a2c4-4b436346ab37
+1673726436941	Marionette	INFO	Stopped listening on port 50148
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "Sqlite.sys.mjs: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673726446802	geckodriver	INFO	Listening on 127.0.0.1:50208
+1673726449778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileJo3Jzj"
+*** You are running in headless mode.
+1673726451094	Marionette	INFO	Marionette enabled
+1673726451112	Marionette	INFO	Listening on port 50220
+Read port: 50220
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50209
+1673726455862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileJo3Jzj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50209/devtools/browser/82f71540-fe8f-4f95-b512-1aea2bf46730
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50273
+1673726476350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilen4TF6w"
+*** You are running in headless mode.
+1673726478281	Marionette	INFO	Marionette enabled
+1673726478324	Marionette	INFO	Listening on port 50290
+Read port: 50290
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50274
+Read port: 50290
+1673726481721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilen4TF6w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50274/devtools/browser/d43c5c0d-e6dd-42a2-b669-8a1ab0128b7c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673726563281	Marionette	INFO	Stopped listening on port 50290
+1673726571710	geckodriver	INFO	Listening on 127.0.0.1:50356
+1673726574783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilegbpJdB"
+*** You are running in headless mode.
+1673726576464	Marionette	INFO	Marionette enabled
+1673726576496	Marionette	INFO	Listening on port 50368
+Read port: 50368
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50357
+1673726577150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilegbpJdB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50357/devtools/browser/6cbd8548-4f76-4d17-a5f0-78ef8882f52e
+1673726600011	Marionette	INFO	Stopped listening on port 50368
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofilegbpJdB\protections.sqlite
+1673726605952	geckodriver	INFO	Listening on 127.0.0.1:50423
+1673726608956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilebo2rBh"
+*** You are running in headless mode.
+1673726610568	Marionette	INFO	Marionette enabled
+1673726610597	Marionette	INFO	Listening on port 50433
+Read port: 50433
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50424
+1673726611153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilebo2rBh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50424/devtools/browser/cc677b1c-4009-4488-a1a6-102c875afb6a
+1673726634254	Marionette	INFO	Stopped listening on port 50433
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "Sqlite.sys.mjs: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1673726640243	geckodriver	INFO	Listening on 127.0.0.1:50485
+1673726666122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilebYCpFT"
+*** You are running in headless mode.
+1673726667641	Marionette	INFO	Marionette enabled
+1673726667669	Marionette	INFO	Listening on port 50504
+Read port: 50504
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50486
+1673726668204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilebYCpFT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50486/devtools/browser/27b22814-7f87-4732-ac5d-b6022bd76cc7
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50558
+1673726696707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile7HVRVx"
+*** You are running in headless mode.
+1673726700778	Marionette	INFO	Marionette enabled
+1673726700827	Marionette	INFO	Listening on port 50573
+Read port: 50573
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50559
+1673726701675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofile7HVRVx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50559/devtools/browser/45e78ea2-fca0-4f3a-b5a9-eb1d52126e56
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673726747015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673726817545	Marionette	INFO	Stopped listening on port 50573
+!!! error running onStopped callback: TypeError: callback is not a function
+1673726826030	geckodriver	INFO	Listening on 127.0.0.1:50649
+1673726828902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileb9Fvl8"
+*** You are running in headless mode.
+1673726830827	Marionette	INFO	Marionette enabled
+1673726830874	Marionette	INFO	Listening on port 50659
+Read port: 50659
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50650
+1673726831563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileb9Fvl8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50650/devtools/browser/e29b3552-9bfb-4b0e-a2b5-007ead10e729
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50713
+1673726863491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileAzKgh2"
+*** You are running in headless mode.
+1673726867904	Marionette	INFO	Marionette enabled
+1673726867982	Marionette	INFO	Listening on port 50726
+Read port: 50726
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50714
+1673726869226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofileAzKgh2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50714/devtools/browser/30e1ded5-42f9-4dcf-9e25-19d062168d1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+1673727001989	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673727011163	Marionette	INFO	Stopped listening on port 50726
+1673727022960	geckodriver	INFO	Listening on 127.0.0.1:50815
+1673727026075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "50816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilefAAa1v"
+*** You are running in headless mode.
+1673727029054	Marionette	INFO	Marionette enabled
+1673727029105	Marionette	INFO	Listening on port 50825
+Read port: 50825
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+WebDriver BiDi listening on ws://127.0.0.1:50816
+1673727030006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilefAAa1v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50816/devtools/browser/bc267a63-e021-4907-b8df-f9ba751d805c
+1673727059961	Marionette	INFO	Stopped listening on port 50825
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\hshah\AppData\Local\Temp\rust_mozprofilefAAa1v\protections.sqlite
+1673810098626	geckodriver	INFO	Listening on 127.0.0.1:54328
+1673810104140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--window-size=1920,1080" "--ignore-certificate-errors" "--allow-running-insecure-content" "--disable-extensions" "--proxy-server=\'direct://\'" "--proxy-bypass-list=*" "--start-maximized" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "--disable-notifications" "--disable-infobars" "--remote-debugging-port" "54329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilekjoVgb"
+*** You are running in headless mode.
+1673810169513	Marionette	INFO	Marionette enabled
+1673810169672	Marionette	INFO	Listening on port 54345
+Read port: 54345
+Read port: 54345
+Read port: 54345
+Read port: 54345
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 465: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+Read port: 54345
+WebDriver BiDi listening on ws://127.0.0.1:54329
+Read port: 54345
+Read port: 54345
+1673810182231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hshah\\AppData\\Local\\Temp\\rust_mozprofilekjoVgb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54329/devtools/browser/6d826a74-0080-4064-b200-bbdf7c3c840a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://urushop.co.uk."
