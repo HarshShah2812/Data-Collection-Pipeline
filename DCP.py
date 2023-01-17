@@ -236,10 +236,10 @@ class Scraper:
         image_path =  f'images/{str(date.today())}_{str(scrape_time)}_{str(index)}.jpg' 
         
         headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0',
-        'Accept-Language': 'en-GB,en;q=0.5',
-        'Referer': 'https://urushop.co.uk/',
-        'DNT': '1'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0', # identifies the application type, operating system or software version of the requesting software user agent
+        'Accept-Language': 'en-GB,en;q=0.5', # tells the server the language version of the data to provide
+        'Referer': 'https://urushop.co.uk/', # tells the server the page the user has come from
+        'DNT': '1' # opts the user out of tracking
         }
         image_data = requests.get(link, headers = headers, stream = True)
         if image_data.status_code == 200:
