@@ -17,7 +17,7 @@ Despite having previous Python experience prior to completing this project, this
 
 This project was completed with the help of VS Code as the code editor, as well as Git and Github. I created an environment for this project with conda, naming it 'DCPenv'.
 
-The choice of website was based on personal interest. As an enthusiast of Yerba Mate, a caffeinous hot beverage with numerous health benefits consumed primarily in Argentina and Uruguay, as well as southern parts of Brazil, I wanted to explore it further by looking into the types of brands out there that sell this product, as well as the different flavours that exist. Therefore, the natural choice in terms of websites to scrape was ![Urushop](https://urushop.co.uk/). Given that the products that they sell aren't solely limited to Yerba Mate, I decided to limit the scope of the project to only include Yerba Mate products.
+The choice of website was based on personal interest. As an enthusiast of Yerba Mate, a caffeinous hot beverage with numerous health benefits consumed primarily in Argentina and Uruguay, as well as southern parts of Brazil, I wanted to explore it further by looking into the types of brands out there that sell this product, as well as the different flavours that exist. Therefore, the natural choice in terms of websites to scrape was [Urushop](https://urushop.co.uk/). Given that the products that they sell aren't solely limited to Yerba Mate, I decided to limit the scope of the project to only include Yerba Mate products.
 
 ![Urushop-yerbamatepage](yerbamatepage.PNG)
 
