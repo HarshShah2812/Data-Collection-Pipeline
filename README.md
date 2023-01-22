@@ -25,7 +25,7 @@ The choice of website was based on personal interest. As an enthusiast of Yerba 
 
 The webscrper has been written in Python, utilising the concept of Object Orientated Programming. In this milestone, I created a `Scraper()` class within a file named `DCP.py`, creating different methods within it with the help of Selenium that would navigate the webpage (`_downward_scroller()`), bypass cookies (`_load_and_accept_cookies()`) and get the links to each page from which the product data would be extracted, storing them in a list (`_get_links()`). I created an `if __name__ == '__main__':` block, so that the class would be initialised only if the file is run directly rather than on any import. 
 
-The method,  `_get_links()`, iterates through each page with the help of a for-loop, within which a `try-except` syntax is used to find the link and append it to the designated list; once all the links from the page are collected, another `try-except` syntax is used to navigate to the next page of products via the previously created method `_get_next_page()`
+The method,  `_get_links()`, iterates through each page with the help of a for-loop, within which a `try-except` syntax is used to find the link and append it to the designated list; once all the links from the page are collected, another `try-except` syntax is used to navigate to the next page of products via the previously created method `_get_next_page()`.
 
 
 
