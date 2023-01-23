@@ -13,13 +13,13 @@ Despite having previous Python experience prior to completing this project, this
 
  - perform unit testing on the webscraper to ensure it works as expected;
 
- - using Docker to containerise the application and if running successfully, deploying the image to Dockerhub;
+ - use Docker to containerise the application and if running successfully, deploy the image to Dockerhub;
 
- - setting up a CI/CD pipeline using GitHub Actions to automate the deployment of a new Docker image to Dockerhub.
+ - set up a CI/CD pipeline using GitHub Actions to automate the deployment of a new Docker image to Dockerhub.
 
 ## Milestones 1-2: Setting up the environment and choosing the website
 
-This project was completed with the help of VS Code as the code editor, as well as Git and Github, which provided a means to implement version control. A separate environment was created for this project with conda, and it was named `DCPenv`.
+This project was completed with the help of VS Code as the code editor, as well as Git and Github, which provided a means to implement version control. A separate environment was created for this project with `conda`, and it was named `DCPenv`.
 
 The choice of website was based on personal interest. As an enthusiast of Yerba Mate, a caffeinous hot beverage with numerous health benefits consumed primarily in Argentina and Uruguay, as well as southern parts of Brazil, I wanted to explore it further by looking into the types of brands out there that sell this product, as well as the different flavours that exist. Therefore, the natural choice in terms of websites to scrape was [Urushop](https://urushop.co.uk/). Given that the products that they sell aren't solely limited to Yerba Mate, I decided to limit the scope of the project to only include Yerba Mate products.
 
@@ -27,7 +27,7 @@ The choice of website was based on personal interest. As an enthusiast of Yerba 
 
 ## Milestone 3: Finding all the pages from which the data will be scraped
 
-The webscrper has been written in Python, utilising the concept of Object Orientated Programming. In this milestone, I created a `Scraper()` class within a file named `DCP.py`, creating different methods within it with the help of Selenium that would bypass cookies (`_load_and_accept_cookies()`), navigate the webpage (`_downward_scroller()`), go to the Yerba Mate products page (`_get_products_page()`), and get the links to each page from which the product data would be extracted, storing them in a list (`_get_links()`). I created an `if __name__ == '__main__':` block, so that the class would be initialised only if the file is run directly rather than on any import. 
+The webscrper was written in Python, utilising the concept of Object Orientated Programming. In this milestone, I created a `Scraper()` class within a file named `DCP.py`, creating different methods within it with the help of Selenium that would bypass cookies (`_load_and_accept_cookies()`), navigate the webpage (`_downward_scroller()`), go to the Yerba Mate products page (`_get_products_page()`), and get the links to each page from which the product data would be extracted, storing them in a list (`_get_links()`). I created an `if __name__ == '__main__':` block, so that the class would be initialised only if the file is run directly rather than on any import. 
 
 The method,  `_get_links()`, iterates through each page with the help of a for-loop, within which a `try-except` syntax is used to find the link and append it to the designated list; once all the links from the page are collected, another `try-except` syntax is used to navigate to the next page of products via the previously created method `_get_next_page()`.
 
@@ -82,7 +82,7 @@ if __name__ == "__main__":
     scraper._get_product_info_from_each_page()
     scraper.quit()
 ```
-The biggest takeaways from this milestone were the correct implementation of for-loops, choosing relating XPATHs to extract information from a product page, how to download images locally with the help of Requests and OS, and how to create JSON files that contain a dictionary, using `json.dump()` to store them locally.
+The biggest takeaways from this milestone were the correct implementation of for-loops, choosing relating XPATHs to extract information from a product page, downloading images locally with the help of Requests and OS, and creating JSON files that contain a dictionary, using `json.dump()` to store them locally.
 
 ## Milestone 5: Documentation & Testing
 
@@ -91,10 +91,10 @@ In this milestone, I firstly refactored the code accordingly:
 - Ensuring any unnecessary comments were removed; 
 - docstrings were added to all functions; 
 - ensuring the use of `self` wasn't excessive; 
-- breaking down long methods into small ones that perform individual tasks;
+- breaking down long methods into smaller ones that perform individual tasks;
 - ensuring there aren't any nested loops.
 
-Then, I created unit tests for the scraper with the help of the `unittest` module; therefore, a test was created for each of the methods within the `Scraper()` class. These tests are written in the `test.py` file. The entire process of unit testing was a very interesting learn and has taught me the importance of code meeting quality standards before deployment. Another learn for me was how Python files can be packaged and used within other scripts, where in this case, the `Scraper()` class was imported from the `DCP.py` file in order to be used within the `test.py` file.
+Then, I created unit tests for the scraper with the help of the `unittest` module; therefore, a test was created for each of the methods within the `Scraper()` class. These tests were written in the `test.py` file. The entire process of unit testing was a very interesting learn and has taught me the importance of code meeting quality standards before deployment. Another learn for me was how Python files can be packaged and used within other scripts, where in this case, the `Scraper()` class was imported from the `DCP.py` file in order to be used within the `test.py` file.
 
 ## Milestone 6: Containerising the scraper
 
@@ -154,7 +154,7 @@ After the image was built, it was run to ensure that it worked properly, and the
 
 This milestone required you to build a CI/CD pipeline in order to build and deploy the Docker image to Dockerhub. First of all, I created 2 Github secrets, `DOCKERHUB_USERNAME` and `DOCKERHUB_TOKEN`, which respectively contain my Dokerhub username and personal access token.
 
-As a result, I could now set up a CI/CD pipeline (Continuous Integration/Continuous Deployment) through Github actions by creating a YML file, within which I have written the action to run the pipeline in such a way that it is triggered on a push to the `main` branch of my Github repo, build the Docker image and subsequently pushes the image to the Dockerhub repo. As a result, the workflow is updated automatically within the `Actions` tab within the Github repo whenever any new changes are pushed to the main branch.
+As a result, I could now set up a CI/CD pipeline (Continuous Integration/Continuous Deployment) through Github actions by creating a YML file, within which I wrote the action to run the pipeline in such a way that it is triggered on a push to the `main` branch of my Github repo, builds the Docker image and subsequently pushes this image to the Dockerhub repo. As a result, the workflow is updated automatically within the `Actions` tab in the Github repo whenever any new changes are pushed to the `main` branch.
 
 ![githubworkflows](https://user-images.githubusercontent.com/67421468/214129095-a0036363-7570-4e30-8396-390b3f791c69.png)
 
