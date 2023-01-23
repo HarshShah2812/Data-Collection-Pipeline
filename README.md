@@ -33,7 +33,7 @@ The method,  `_get_links()`, iterates through each page with the help of a for-l
 
 ## Milestone 4: Retrieving the data from the details page
 
-In this milestone, I created a method that would retrieve the data from each product's page (`_retrieve_product_data()`) as well as another one that then puts the data obtained by the previous method into a dictionary and writes the dictionary into a JSON file so that it is stored locally (`_update_data_dictionary()`). A method was then created that integrates `_get_links()` as well as `_update_data_dictionary()`. The dictionary created has the following structure:
+In this milestone, I created a method that would retrieve the data from each product's page (`_retrieve_product_data()`) as well as another one that then puts the data obtained by the previous method into a dictionary and writes the dictionary into a `json` file so that it is stored locally (`_update_data_dictionary()`). A method was then created that integrates `_get_links()` as well as `_update_data_dictionary()`. The dictionary created has the following structure:
 
 ```python
 
@@ -55,7 +55,7 @@ The JSON file in which the dictionary is written looks as such:
     "timestamp": "14-01-2023, 17:58:27"
 }
 ```
-The value corresponding to the 'image' key is the URL associated with the product image. The image was downloaded using `_download_image()`, which was also integrated into `_get_product_properties()`. Within `_download_image()`, I integrated a HTTP header when using `requests` in order to pass additional information about the request, therefore minimising the chances of the server thinking that I am a bot.
+The value corresponding to the 'image' key is the URL associated with the product image. The image was downloaded using `_download_image()`, which was also integrated into `_get_product_properties()`. Within `_download_image()`, I integrated a `HTTP header` when using `requests` in order to pass additional information about the request, therefore minimising the chances of the server thinking that I am a bot.
 
 The header looks like this:
 
@@ -82,7 +82,7 @@ if __name__ == "__main__":
     scraper._get_product_info_from_each_page()
     scraper.quit()
 ```
-The biggest takeaways from this milestone were the correct implementation of for-loops, choosing relating XPATHs to extract information from a product page, downloading images locally with the help of Requests and OS, and creating JSON files that contain a dictionary, using `json.dump()` to store them locally.
+The biggest takeaways from this milestone were the correct implementation of for-loops, choosing relating `XPATHs` to extract information from a product page, downloading images locally with the help of `Requests` and `OS`, and creating `json` files that contain a dictionary, using `json.dump()` to store them locally.
 
 ## Milestone 5: Documentation & Testing
 
