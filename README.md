@@ -92,6 +92,65 @@ In this milestone, I firstly refactored the code accordingly:
 
 Then, I created unit tests for the scraper with the help of the `unittest` module; therefore, a test was created for each of the methods within the `Scraper()` class. These tests are written in the `test.py` file. The entire process of unit testing was a very interesting learn and has taught me the importance of code meeting quality standards before deployment. Another learn for me was how Python files can be packaged and used within other scripts, where in this case, the `Scraper()` class was imported from the `DCP.py` file in order to be used within the `test.py` file.
 
+## Milestone 6: Containerising the scraper
+
+After carrying out the final code refactoring and ensuring all tests passed, this milestone required you to run the scraper in headless mode, which would be required for the scraper to run inside the Docker container that would be created later; this was done using `Options()` as follows:
+
+```python
+
+options = Options()
+options.add_argument('--headless')
+options.add_argument("--window-size=1920,1080")
+options.add_argument('--ignore-certificate-errors') 
+options.add_argument('--allow-running-insecure-content')
+options.add_argument("--disable-extensions") 
+options.add_argument("--proxy-server='direct://'")
+options.add_argument("--proxy-bypass-list=*")
+options.add_argument("--start-maximized")
+options.add_argument('--disable-gpu')
+options.add_argument('--disable-dev-shm-usage') 
+options.add_argument('--no-sandbox') 
+options.add_argument("--disable-notifications") 
+options.add_argument("--disable-infobars")
+
+self.driver = webdriver.Firefox(options = options)
+self.url = "https://urushop.co.uk/"
+self.get_request = self.driver.get(self.url)
+```
+The next task was to create a `Dockerfile`, which would build an image of the scraper locally. The file would contain instructions to:
+
+- choose a base image (`python:3.10` in my case); 
+- put all the packages required to run the scraper within the container;
+- install any dependencies;
+- run the Python file containing the scraper.
+
+2 of the dependencies required to build the image were Firefox and Geckodriver, which can be installed as follows:
+
+```python
+
+#update the system and install Firefox
+RUN apt-get update
+RUN apt -y upgrade
+RUN apt-get install -y firefox-esr
+
+# get the latest release of geckodriver
+RUN wget https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-linux32.tar.gz \
+    # extract the geckodriver
+    && tar -xvzf geckodriver* \
+    # add executable permissions to the driver
+    && chmod +x geckodriver \
+    # move geckodriver to the system path
+    && mv geckodriver /usr/local/bin
+```
+After the image was built, it was run to ensure that it worked properly, and then pushed to Dockerhub:
+
+![harsh2812dcp](https://user-images.githubusercontent.com/67421468/214123909-21b2fffc-64c0-4a05-a8b2-3e47b8c046cb.png)
+
+
+
+
+
+
 
 
 
