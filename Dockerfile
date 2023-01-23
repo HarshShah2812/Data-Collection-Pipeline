@@ -5,7 +5,7 @@ RUN apt-get update
 RUN apt -y upgrade
 RUN apt-get install -y firefox-esr
 
-# get the latest release of geckofriver
+# get the latest release of geckodriver
 RUN wget https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-linux32.tar.gz \
     # extract the geckodriver
     && tar -xvzf geckodriver* \
