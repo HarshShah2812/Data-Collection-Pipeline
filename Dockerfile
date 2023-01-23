@@ -1,6 +1,6 @@
 FROM python:3.10
 
-#update the system and install Firefox
+# update the system and install Firefox
 RUN apt-get update
 RUN apt -y upgrade
 RUN apt-get install -y firefox-esr
