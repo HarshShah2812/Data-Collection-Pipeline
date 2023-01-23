@@ -1,5 +1,5 @@
 # Data-Collection-Pipeline
-A repository showcasing the work I did to build a data collection pipeline
+A repository showcasing the work I did to build a data collection pipeline.
 
 Despite having previous Python experience prior to completing this project, this was my first experience building a webscraper, therefore all tools mentioned throughout were learnt whilst doing the project.
 
