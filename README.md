@@ -3,6 +3,10 @@ A repository showcasing the work I did to build a data collection pipeline
 
 Despite having previous Python experience prior to completing this project, this was my first experience building a webscraper, therefore all tools mentioned throughout were learnt whilst doing the project.
 
+## Languages & Tools
+
+<a href="/"><img class="python-logo" src="/static/img/python-logo.png" alt="python™"></a> 
+
 ## Project Goals
 
  - Develop a webscraper that collects data from a chosen website primarily with the help of Selenium and Requests;
