@@ -80,7 +80,7 @@ if __name__ == "__main__":
 ```
 The biggest takeaways from this milestone were the correct implementation of for-loops, choosing relating XPATHs to extract information from a product page, how to download images locally with the help of Requests and OS, and how to create JSON files that contain a dictionary, using `json.dump()` to store them locally.
 
-# Milestone 5: Documentation & Testing
+## Milestone 5: Documentation & Testing
 
 In this milestone, I firstly refactored the code accordingly:
 
