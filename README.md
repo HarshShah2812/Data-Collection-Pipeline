@@ -146,6 +146,13 @@ After the image was built, it was run to ensure that it worked properly, and the
 
 ![harsh2812dcp](https://user-images.githubusercontent.com/67421468/214123909-21b2fffc-64c0-4a05-a8b2-3e47b8c046cb.png)
 
+## Milestone 7: Setting up a CI/CD pipeline for the Docker image
+
+This milestone required you to build a CI/CD pipeline in order to build and deploy the Docker image to Dockerhub. First of all, I created 2 Github secrets, `DOCKERHUB_USERNAME` and `DOCKERHUB_TOKEN`, which respectively contain my Dokerhub username and personal access token.
+
+As a result, I could now set up a CI/CD pipeline (Continuous Integration/Continuous Deployment) through Github actions by creating a YML file, within which I have written the action to run the pipeline in such a way that it is triggered on a push to the `main` branch of my Github repo, build the Docker image and subsequently pushes the image to the Dockerhub repo. As a result, the workflow is updated automatically within the `Actions` tab within the Github repo whenever any new changes are pushed to the main branch.
+
+![githubworkflows](https://user-images.githubusercontent.com/67421468/214129095-a0036363-7570-4e30-8396-390b3f791c69.png)
 
 
 
