@@ -23,9 +23,63 @@ The choice of website was based on personal interest. As an enthusiast of Yerba 
 
 ## Milestone 3: Finding all the pages from which the data will be scraped
 
-The webscrper has been written in Python, utilising the concept of Object Orientated Programming. In this milestone, I created a `Scraper()` class within a file named `DCP.py`, creating different methods within it with the help of Selenium that would navigate the webpage (`_downward_scroller()`), bypass cookies (`_load_and_accept_cookies()`) and get the links to each page from which the product data would be extracted, storing them in a list (`_get_links()`). I created an `if __name__ == '__main__':` block, so that the class would be initialised only if the file is run directly rather than on any import. 
+The webscrper has been written in Python, utilising the concept of Object Orientated Programming. In this milestone, I created a `Scraper()` class within a file named `DCP.py`, creating different methods within it with the help of Selenium that would bypass cookies (`_load_and_accept_cookies()`), navigate the webpage (`_downward_scroller()`), go to the Yerba Mate products page (`_get_products_page()`), and get the links to each page from which the product data would be extracted, storing them in a list (`_get_links()`). I created an `if __name__ == '__main__':` block, so that the class would be initialised only if the file is run directly rather than on any import. 
 
 The method,  `_get_links()`, iterates through each page with the help of a for-loop, within which a `try-except` syntax is used to find the link and append it to the designated list; once all the links from the page are collected, another `try-except` syntax is used to navigate to the next page of products via the previously created method `_get_next_page()`.
+
+## Milestone 4: Retrieving the data from the details page
+
+In this milestone, I created a method that would retrieve the data from each product's page (`_retrieve_product_data()`) as well as another one that then puts the data obtained by the previous method into a dictionary and writes the dictionary into a JSON file so that it is stored locally (`_update_data_dictionary()`). A method was then created that integrates `_get_links()` as well as `_update_data_dictionary()`. The dictionary created has the following structure:
+
+```python
+
+{'id':, 'name':, 'price':, 'weight':, 'brand':, 'rating':, 'image':, 'timestamp': }
+
+```
+The JSON file in which the dictionary is written looks as such:
+
+```python
+
+{
+    "id": "0bb449b8-7c1a-431e-94cc-7c1f65fb920b",
+    "name": "Yerba Mate Canarias 500g",
+    "price": "£5.50",
+    "weight": "0.5 kg",
+    "brand": "Canarias",
+    "rating": "4.84",
+    "image": "https://urushop.co.uk/wp-content/uploads/y2.jpg",
+    "timestamp": "14-01-2023, 17:58:27"
+}
+```
+The value corresponding to the 'image' key is the URL associated with the product image. The image was downloaded using `_download_image()`, which was also integrated into `_get_product_properties()`. Within `_download_image()`, I integrated a HTTP header when using `requests` in order to pass additional information about the request, therefore minimising the chances of the server thinking that I am a bot.
+
+The header looks like this:
+
+```python
+
+headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0', 
+        'Accept-Language': 'en-GB,en;q=0.5', 
+        'Referer': 'https://urushop.co.uk/', 
+        'DNT': '1' 
+        }
+```
+
+The JSON file was stored in a local directory called `raw_data`, while the image was stored in a local directory called `images`.
+
+`_get_product_properties()` was then integrated into another method, called `_get_product_info_from_each_page()`, along with `_downward_scroller()` and `_get_products_page()`.
+
+This method was then integrated into the `if __name__ == '__main__:` block as follows:
+
+```python
+
+if __name__ == "__main__":
+    scraper = Scraper()
+    scraper._get_product_info_from_each_page()
+    scraper.quit()
+```
+The biggest takeaways from this milestone were the correct implementation of for-loops, choosing relating XPATHs to extract information from a product page, how to download images locally with the help of Requests and OS, and how to create JSON files that contain a dictionary, using `json.dump()` to store them locally.
+
 
 
 
