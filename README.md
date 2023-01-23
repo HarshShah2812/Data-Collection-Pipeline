@@ -80,6 +80,23 @@ if __name__ == "__main__":
 ```
 The biggest takeaways from this milestone were the correct implementation of for-loops, choosing relating XPATHs to extract information from a product page, how to download images locally with the help of Requests and OS, and how to create JSON files that contain a dictionary, using `json.dump()` to store them locally.
 
+# Milestone 5: Documentation & Testing
+
+In this milestone, I firstly refactored the code accordingly:
+
+- Ensuring any unnecessary comments were removed; 
+- docstrings were added to all functions; 
+- ensuring the use of `self` wasn't excessive; 
+- breaking down long methods into small ones that perform individual tasks;
+- ensuring there aren't any nested loops.
+
+Then, I created unit tests for the scraper with the help of the `unittest` module; therefore, a test was created for each of the methods within the `Scraper()` class. These tests are written in the `test.py` file. The entire process of unit testing was a very interesting learn and has taught me the importance of code meeting quality standards before deployment. Another learn for me was how Python files can be packaged and used within other scripts, where in this case, the `Scraper()` class was imported from the `DCP.py` file in order to be used within the `test.py` file.
+
+
+
+
+
+
 
 
 
